@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Hello",
+    "\\Hello\\bin",
+    "\\Hello\\bin\\Debug",
+    "\\Hello\\bin\\Release",
+    "\\Hello\\obj",
+    "\\Hello\\obj\\Debug",
+    "\\Hello\\obj\\Debug\\TempPE",
+    "\\Hello\\obj\\Release",
+    "\\Hello\\Properties"
+  ],
+  "SelectedNode": "\\.gitattributes",
+  "PreviewInSolutionExplorer": false
+}
