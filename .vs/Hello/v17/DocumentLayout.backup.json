@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Hello\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{247E67DD-A1AF-4A23-90FD-1B8B2CA783FC}|Hello\\Hello.csproj|c:\\users\\lenovo\\source\\repos\\hello\\hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247E67DD-A1AF-4A23-90FD-1B8B2CA783FC}|Hello\\Hello.csproj|solutionrelative:hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\Hello\\Hello\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "Hello\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Hello\\Hello\\Program.cs",
               "RelativeToolTip": "Hello\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAADwvzAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAACAMNuFMNsrwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T18:47:08.031Z",
               "EditorCaption": ""
